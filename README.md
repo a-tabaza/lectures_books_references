@@ -1,4 +1,8 @@
 # Lectures, Books and References
+
+> [!IMPORTANT]
+> Some of these are not introductory, if you're new, consult a better roadmap or resource list rather than use these as entry points
+
 This is just for me, if it helps you along the way, that's great.
 
 Topics Covered: Data Science, Deep Learning, Generative AI, Computer Vision, NLP, IR, ML, RL, Optimization, Statistics, Mathematics, Software Engineering, Systems, Security, and Startups.
