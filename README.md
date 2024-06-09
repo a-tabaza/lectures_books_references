@@ -32,6 +32,7 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Large Language Models: Application through Production](https://github.com/databricks-academy/large-language-models)
 - [fast.ai Practical Deep Learning](https://course.fast.ai/)
 - [Udacity Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
+- [CUDA MODE Lectures](https://github.com/cuda-mode)
 
 
 ## Books and References
@@ -58,6 +59,7 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.oreilly.com/library/view/fundamentals-of-software/9781663728357/)
 - [Pattern Recognition and Machine Learning](https://link.springer.com/book/10.1007/978-0-387-45528-0)
 - [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+- [Programming Massively Parallel Processors](https://www.sciencedirect.com/book/9780323912310/programming-massively-parallel-processors)
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
