@@ -67,4 +67,6 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
 - [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
+- [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
+- [Programming Massively Parallel Processors: A Hands-on Approach](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf)
 - [Zero to One: Notes on Startups, or How to Build the Future](https://en.wikipedia.org/wiki/Zero_to_One)
