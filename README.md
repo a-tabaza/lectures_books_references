@@ -48,6 +48,7 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Reinforcement Learning and Stochastic Optimization](https://castle.princeton.edu/RLSO/)
 - [Foundations of Computer Vision](https://mitpress.mit.edu/9780262048972/foundations-of-computer-vision/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Dive into Deep Learning](https://d2l.ai/)
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 - [Machine Learning for High-Risk Applications](https://www.oreilly.com/library/view/machine-learning-for/9781098102425/)
