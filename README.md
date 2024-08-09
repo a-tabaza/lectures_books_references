@@ -37,6 +37,7 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [fast.ai Practical Deep Learning](https://course.fast.ai/)
 - [Udacity Intro to Parallel Programming](https://developer.nvidia.com/udacity-cs344-intro-parallel-programming)
 - [CUDA MODE Lectures](https://github.com/cuda-mode)
+- [Knowledge Graphs - Foundations and Applications (OpenHPI 2023)](https://www.youtube.com/playlist?list=PLNXdQl4kBgzubTOfY5cbtxZCgg9UTe-uF)
 
 
 ## Books and References
