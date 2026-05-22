@@ -5,7 +5,7 @@
 
 This is just for me, if it helps you along the way, that's great.
 
-Topics Covered: Data Science, Deep Learning, Generative AI, Computer Vision, NLP, IR, ML, RL, Optimization, Statistics, Mathematics, Software Engineering, Systems, Security, and Startups.
+Topics Covered: data science, deep learning, generative AI, computer vision, natural language processing, information retrieval, machine learning, reinforcement learning, optimization, statistics, mathematics, software sngineering, systems and security.
 
 ## Lectures
 Most of these are offered throughout the years, you'll need to look for the lectures on YouTube yourself but I'll link the course site.
@@ -71,4 +71,3 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 - [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
 - [Programming Massively Parallel Processors: A Hands-on Approach](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf)
-- [Zero to One: Notes on Startups, or How to Build the Future](https://en.wikipedia.org/wiki/Zero_to_One)
