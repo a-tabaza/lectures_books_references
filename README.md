@@ -71,4 +71,4 @@ Most of these are offered throughout the years, you'll need to look for the lect
 - [Black Hat Python](https://olinux.net/wp-content/uploads/2019/01/python.pdf)
 - [Machine Learning Design Patterns](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)
 - [Programming Massively Parallel Processors: A Hands-on Approach](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf)
-- Chaos Engineering : System Resiliency in Practice [https://www.oreilly.com/library/view/chaos-engineering/9781491988459/]
+- [Chaos Engineering : System Resiliency in Practice](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
